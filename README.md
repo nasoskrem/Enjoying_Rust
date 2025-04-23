@@ -1,3 +1,3 @@
-RUST IS -THE- GREAT PROGRAMMING LANGUAGE. C PROGRAMMING BUT SOUND AND SAFE.
-PROJECTS TO BE UPLOADED SOON...
-FOR NOW I'VE MADE SOME NOTES SO YOU CAN LEARN FOR YOURSELF. 
+# RUST Early learning stages
+
+This is a file containing all rust's basic concepts. Inspired by **The Rust Programming Language: 2nd Edition by Steve Klabnik** book.
